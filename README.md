@@ -1,3 +1,3 @@
-## SinWar Coin Token Contract Official Respository
+## SinWar Coin Official Respository
 
 Website: https://yahyasinwarcoin.com/
