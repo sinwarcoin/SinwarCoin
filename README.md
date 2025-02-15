@@ -1,3 +1,3 @@
-## SinWar Coin Official Respository
+## SinWar Coin Official Repository
 
 Website: https://yahyasinwarcoin.com/
